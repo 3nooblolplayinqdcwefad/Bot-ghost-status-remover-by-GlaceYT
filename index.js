@@ -36,8 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
-
+const statusMessages = ["👑 HYPERHOUSE STUDIOS","✨I'm smart✨","join our server❤️","😁"];
 
 let currentIndex = 0;
 const channelId = '';
